@@ -5,6 +5,7 @@ const API_URL = "https://api.openweathermap.org/data/2.5";
 // DOM elements
 const cityInput = document.getElementById("cityInput");
 const searchBtn = document.getElementById("searchBtn");
+const printBtn = document.getElementById("printBtn");
 const currentWeather = document.getElementById("currentWeather");
 const errorMessage = document.getElementById("errorMessage");
 
@@ -50,6 +51,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Event listeners
   searchBtn.addEventListener("click", handleSearch);
+  printBtn.addEventListener("click", handlePrint);
   cityInput.addEventListener("keypress", function (e) {
     if (e.key === "Enter") {
       handleSearch();
@@ -86,6 +88,25 @@ async function loadDefaultWeather() {
   } else {
     fetchWeatherByCity("New York"); // Fallback city
   }
+}
+
+// Handle print button click
+function handlePrint() {
+  // Add print date to the weather card
+  const weatherCard = document.querySelector('.weather-card');
+  const printDate = new Date().toLocaleString();
+  weatherCard.setAttribute('data-print-date', printDate);
+  
+  // Add print-friendly title to document
+  const originalTitle = document.title;
+  const cityName = document.getElementById('cityName').textContent;
+  document.title = `Weather Report - ${cityName} - ${printDate}`;
+  
+  // Print the page
+  window.print();
+  
+  // Restore original title
+  document.title = originalTitle;
 }
 
 // Handle search button click
