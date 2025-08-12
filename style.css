@@ -124,7 +124,7 @@ body::before {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 30px;
+  margin-bottom: 37px;
   padding: 30px;
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(15px);
@@ -382,3 +382,4 @@ body::before {
 .loading * {
   animation: pulse 1.5s infinite;
 }
+
