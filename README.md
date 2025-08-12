@@ -1,1 +1,1 @@
-code for weather app coming soon
+weather app, new school project :)
