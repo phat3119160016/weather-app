@@ -193,7 +193,7 @@ body::before {
   display: flex;
   justify-content: center;
   align-items: center;
-  width: 120px;
+  width: 123px;
   height: 120px;
   background: rgba(255, 255, 255, 0.1);
   border-radius: 50%;
@@ -679,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
