@@ -60,7 +60,7 @@ body::before {
   color: #fff;
   font-size: 2.5rem;
   font-weight: 310;
-  margin-bottom: 32px;
+  margin-bottom: 39px;
   letter-spacing: 1px;
 }
 
@@ -104,7 +104,7 @@ body::before {
   border-radius: 15px;
   padding: 17px 25px;
   color: #fff;
-  font-size: 16px;
+  font-size: 19px;
   cursor: pointer;
   transition: all 0.3s ease;
   font-weight: 600;
@@ -679,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
