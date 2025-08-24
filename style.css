@@ -12,7 +12,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 20px;
+  padding: 30px;
 }
 
 body::before {
@@ -679,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
