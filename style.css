@@ -148,7 +148,7 @@ body::before {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  margin-bottom: 37px;
+  margin-bottom: 67px;
   padding: 30px;
   background: rgba(255, 255, 255, 0.1);
   backdrop-filter: blur(15px);
@@ -679,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
