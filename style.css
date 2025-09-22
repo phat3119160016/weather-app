@@ -79,7 +79,7 @@ body::before {
   border-radius: 15px;
   padding: 20px 23px;
   color: #fff;
-  font-size: 20px;
+  font-size: 30px;
   outline: none;
   transition: all 0.3s ease;
   min-width: 300px;
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
