@@ -82,7 +82,7 @@ body::before {
   font-size: 30px;
   outline: none;
   transition: all 0.3s ease;
-  min-width: 300px;
+  min-width: 500px;
 }
 
 #cityInput::placeholder {
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
