@@ -180,7 +180,7 @@ body::before {
   color: #fff;
   font-size: 4rem;
   font-weight: 300;
-  margin-bottom: 14px;
+  margin-bottom: 20px;
 }
 
 .description {
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
