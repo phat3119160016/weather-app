@@ -178,7 +178,7 @@ body::before {
 
 .temperature {
   color: #fff;
-  font-size: 4rem;
+  font-size: 5rem;
   font-weight: 300;
   margin-bottom: 20px;
 }
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
