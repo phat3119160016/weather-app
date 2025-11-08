@@ -61,7 +61,7 @@ body::before {
   font-size: 2.5rem;
   font-weight: 310;
   margin-bottom: 330px;
-  letter-spacing: 1px;
+  letter-spacing: 5px;
 }
 
 .search-container {
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
