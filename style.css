@@ -198,7 +198,7 @@ body::before {
   height: 120px;
   background: rgba(255, 255, 255, 0.1);
   border-radius: 50%;
-  border: 2px solid rgba(255, 255, 255, 0.3);
+  border: 7px solid rgba(255, 255, 255, 0.3);
   transition: all 0.3s ease;
   cursor: pointer;
 }
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
