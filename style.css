@@ -78,8 +78,7 @@ body::before {
   border: 3px solid rgba(255, 255, 255, 0.2);
   border-radius: 15px;
   padding: 20px 23px;
-  color: #fff;
-  font-size: 30px;
+  color: #fff70px;
   outline: none;
   transition: all 0.3s ease;
   min-width: 500px;
@@ -680,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
