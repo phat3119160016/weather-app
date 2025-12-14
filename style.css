@@ -107,7 +107,7 @@ body::before {
     px;
   cursor: pointer;
   transition: all 0.3s ease;
-  font-weight: 600;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 1px;
 }
@@ -679,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
