@@ -165,7 +165,7 @@ body::before {
 .city {
   color: #fff;
   font-size: 2rem;
-  font-weight: 600;
+  font-weight: 700;
   margin-bottom: 10px;
 }
 
@@ -679,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
