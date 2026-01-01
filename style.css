@@ -53,7 +53,7 @@ body::before {
   text-align: center;
   margin-bottom: 33px;
   position: relative;
-  z-index: 3;
+  z-index: 5;
 }
 
 .header h1 {
@@ -679,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
