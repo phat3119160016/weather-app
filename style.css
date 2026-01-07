@@ -100,7 +100,7 @@ body::before {
     rgba(255, 255, 255, 0.3)
   );
   border: 1px solid rgba(255, 255, 255, 0.3);
-  border-radius: 77px;
+  border-radius: 97px;
   padding: 77px 30px;
   color: #fff;
   font-size: 30
@@ -679,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
