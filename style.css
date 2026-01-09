@@ -8,7 +8,7 @@ body {
   font-family: "Arial", sans-serif;
   background: linear-gradient(135deg, #657eea 0%, #764ba2 100%);
   background-attachment: fixed;
-  min-height: 700vh;
+  min-height: 900vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -679,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
