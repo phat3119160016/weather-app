@@ -29,7 +29,7 @@ body::before {
 
 .container {
   width: 100%;
-  max-width: 300px;
+  max-width: 500px;
   position: relative;
 }
 
@@ -679,6 +679,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
