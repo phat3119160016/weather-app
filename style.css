@@ -1,4 +1,5 @@
-* {
+* {       
+  
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -12,7 +13,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 100px;
+  padding: 200px;
 }
 
 body::before {
@@ -679,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
