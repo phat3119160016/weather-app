@@ -60,7 +60,7 @@ body::before {
 .header h1 {
   color: #fff;
   font-size: 7.5rem;
-  font-weight: 310;
+  font-weight: 110;
   margin-bottom: 730px;
   letter-spacing: 37px;
 }
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
