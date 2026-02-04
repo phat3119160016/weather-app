@@ -52,7 +52,7 @@ body::before {
 
 .header {
   text-align: center;
-  margin-bottom: 183px;
+  margin-bottom: 163px;
   position: relative;
   z-index: 5;
 }
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
