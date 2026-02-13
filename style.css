@@ -104,7 +104,7 @@ body::before {
   border-radius: 97px;
   padding: 77px 30px;
   color: #fff;
-  font-size: 30
+  font-size: 70
     px;
   cursor: pointer;
   transition: all 0.3s ease;
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
