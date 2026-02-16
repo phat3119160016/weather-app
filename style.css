@@ -75,7 +75,7 @@ body::before {
 
 #cityInput {
   background: rgba(255, 255, 255, 0.1);
-  backdrop-filter: blur(100px);
+  backdrop-filter: blur(300px);
   border: 3px solid rgba(255, 255, 255, 0.2);
   border-radius: 15px;
   padding: 70px 23px;
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
