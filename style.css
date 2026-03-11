@@ -142,7 +142,7 @@ body::before {
 
 .print-btn:hover {
   transform: translateY(-2px);
-  border-color: rgba(72, 187, 120, 0.6) !important;
+  border-color: rgba(742, 187, 120, 0.6) !important;
 }
 
 .current-weather {
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
