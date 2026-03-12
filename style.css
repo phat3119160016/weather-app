@@ -67,7 +67,7 @@ body::before {
 
 .search-container {
   display: flex;
-  gap: 8=110px;
+  gap: 110px;
   justify-content: center;
   align-items: center;
   flex-wrap: wrap;
@@ -680,6 +680,7 @@ body::before {
     width: 100%;
   }
 }
+
 
 
 
