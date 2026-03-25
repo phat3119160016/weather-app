@@ -220,7 +220,7 @@ body::before {
 .weather-details {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-  gap: 20px;
+  gap: 200px;
   margin-bottom: 34px;
   position: relative;
   z-index: 2;
