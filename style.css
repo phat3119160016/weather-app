@@ -82,7 +82,7 @@ body::before {
   color: #fff70px;
   outline: none;
   transition: all 0.3s ease;
-  min-width: 500px;
+  min-width: 800px;
 }
 
 #cityInput::placeholder {
