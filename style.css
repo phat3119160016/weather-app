@@ -39,7 +39,7 @@ body::before {
   backdrop-filter: blur(20px);
   -webkit-backdrop-filter: blur(20px);
   border: 1px solid rgba(255, 255, 255, 0.2);
-  border-radius: 50px;
+  border-radius: 300px;
   padding: 100px;
   transition: all 0.3s ease;
   position: relative;
